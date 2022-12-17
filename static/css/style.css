@@ -1,0 +1,14 @@
+table{
+    border_collapse : collapse;
+    width : 35%;
+
+}
+td,th{
+border : 1px solid #dddddd;
+text_align : left;
+padding:4px;
+
+}
+tr:nth-child(even){
+background_color : #dddddd;
+}
